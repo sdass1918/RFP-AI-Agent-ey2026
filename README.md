@@ -2,6 +2,8 @@
 
 An intelligent Request for Proposal (RFP) processing system that uses AI agents to analyze tenders, match products, and generate pricing quotes for a wires and cables company.
 
+![Flow Chart](assets/FlowChart.png)
+
 ## 🎯 Overview
 
 The RFP AI Agent is a multi-agent system that automates the entire RFP analysis workflow:
